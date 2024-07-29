@@ -3,7 +3,7 @@ Common tools for dataset format conversion
 
 In addition, we have also compiled a set of evaluation index libraries suitable for algorithms in this field, named BinarySOSMetrics.
 
-The relevant code is published on https://github.com/BinarySOS/BinarySOSMetrics.
+The relevant code is published on https://github.com/IRSTD/STD-EvalKit.
 
 The main features of BinarySOSMetrics include:
 
